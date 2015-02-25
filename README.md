@@ -1,7 +1,7 @@
 Dokumentasi UKOM 2015
 ===================
 Version BETA 1.0 - Wed 25 Feb 2015
-by Adam Bagaskara
+by Adam Bagaskara </br>
 <http://twitter.com/AdamBagaskara/>
 
 <h2>Tujuan</h2>
