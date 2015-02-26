@@ -36,6 +36,6 @@ Kegiatan
 1. Petugas dapat melakukan aksi input data pembelian mobil melalui metode cash atau kredit.
 2. Petugas dapat melihat data mobil.
 3. Petugas dapat melakukan aksi input data dan memodifikasi data pembeli.
-4. Petugas dapat melihat data pembelian dengan metode Cash atau Kredit.
+4. Petugas dapat melakukan aksi input data dan memodifikasi data pembelian dengan metode Cash atau Kredit.
 5. Petugas dapat melihat data paket Kredit.
 6. Petugas dapat melakukan aksi input data dan memodifikasi data pembayaran cicilan.
